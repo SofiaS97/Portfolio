@@ -39,7 +39,7 @@ Puoi trovare le presentazioni direttamente nella cartella `/presentazioni` ai se
 ## 🛠️ Stack Tecnologico Previsto
 
 Le pipeline di calcolo e automazione descritte nelle slide si appoggiano principalmente su:
-* **MATLAB ** 
+* **MATLAB** 
 * **Python**
 * **Arduino IDE**
 
