@@ -7,7 +7,7 @@ Benvenuto! Al momento, lo spazio raccoglie le presentazioni executive e i report
 
 Puoi trovare le presentazioni direttamente nella cartella `/presentazioni` ai seguenti link:
 
-1. 📄 [Design and development of a sensorized anklet for restoring proprioception in lower leg [Tesi magistrale in Biomeccanica](./presentazioni/Tesi_Magistrale.pptx)
+1. 📄 [Design and development of a sensorized anklet for restoring proprioception in lower leg [Tesi magistrale in Biomeccanica](presentazioni/Presentazione_Tesi.pdf)
 2. 📄 [Estensione del Progetto di Tesi - Sviluppi Futuri](./presentazioni/Presentazione_Tesi.pdf)
 3. 📄 [Export automatico di dati in temperatura (Progetto Line-of-Work)](./presentazioni/Automazione_Lavoro.pptx)
 4. 📄 [Calssificazione automatica eventi (Progetto Line-of-Work)](./presentazioni/Automazione_Lavoro.pptx)
