@@ -1,0 +1,4 @@
+1) Tesi MAgistrale in Biomeccanica "Design and development of a sensorized anklet for restoring proprioception in lower leg"
+2) Progetti collegati alla tesi
+3) Script di automazione per estrazione dati acquisii in temperatura dal Dewesoft in base al tipo di test svolto
+4) Script di classificazione delle forme d'onde automatica con calcolo delle metriche di base
