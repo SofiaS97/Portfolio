@@ -20,8 +20,8 @@ Puoi trovare le presentazioni direttamente nella cartella `/presentazioni` ai se
 * **Stato del codice:** *In arrivo.*.
 
 ### 2. Estensione Progetto di Tesi 
-* **Focus:** Aggiunto di una sorta di telecomando dotato di pulsante e luce LED; aggiunta di una scheda di memoria SD
-* **Descrizione:** Questa sezione raccoglie gli sviluppi lasciati fuori dalla discussione di tesi per vincoli di tempo, ma parzialmente testati in ambiente di simulazione. Tra quesi, la possibilità di aggiungere un telecomando doato di luce LED per aiutare l'utente nell'uso autonomo del dispositivo e l'aggiunta di una scheda di memoria SD per memorizzare le deformazioni dei sensori per ogni utente ed elaborarle successivamente
+* **Focus:** Aggiunta di una sorta di telecomando dotato di pulsanti e luce LED; aggiunta di una scheda di memoria SD
+* **Descrizione:** Questa sezione raccoglie gli sviluppi lasciati fuori dalla discussione di tesi per vincoli di tempo, ma parzialmente testati in ambiente di simulazione. Tra questi, la possibilità di aggiungere un telecomando doato di luce LED per aiutare l'utente nell'uso autonomo del dispositivo e l'aggiunta di una scheda di memoria SD per memorizzare le deformazioni dei sensori per ogni utente ed elaborarle successivamente.
 * **Stato del codice:** *In fase di testing.* 
 
 ### 3. Tool di Automazione e Data Extraction (Ambito Industriale)
@@ -31,8 +31,8 @@ Puoi trovare le presentazioni direttamente nella cartella `/presentazioni` ai se
 
 ### 4. Clustering e analisi dati (Ambito Industriale)
 * **Focus:** Automation, scripting, classification.
-* **Descrizione:** Il progetto automatizza l'estrazione di dati grezzi, la loro elaborazione e la classificazione delle forme d'onde, nonchè calcolo delle loro metriche.
-* **Stato del codice:** *In sviluppo.* La struttura dello script principale di automazione verrà rilasciata omettendo i dati sensibili o proprietari.
+* **Descrizione:** Il progetto automatizza l'estrazione di dati grezzi, la loro elaborazione e la classificazione delle forme d'onda, nonchè calcolo delle loro metriche.
+* **Stato del codice:** *In sviluppo.* La struttura dello script principale di classificazione verrà rilasciata omettendo i dati sensibili o proprietari.
 
 ---
 
